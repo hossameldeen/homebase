@@ -1,3 +1,5 @@
+**This repository has been archived. For any communication regarding it, including the possibility of unarchiving or making updates to it, feel free to open an issue on [archived-repos](https://github.com/hossameldeen/archived-repos).** It was forked just for the purpose of a pull request, and, if I remember correctly, the pull request was merged.
+
 # homebase
 
 `homebase` is a self-deployable tool for managing websites published with the [Dat protocol](https://datprotocol.com).
